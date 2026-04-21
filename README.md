@@ -8,3 +8,5 @@ It includes basic topics like data preprocessing, exploratory data analysis, and
 The main goal of this repository is to improve understanding of machine learning concepts through hands-on practice and simple projects.
 
 More topics and projects will be added as learning progresses.
+
+V Jayachandra
